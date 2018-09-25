@@ -1,0 +1,2 @@
+# hints
+plugin hints
