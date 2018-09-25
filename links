@@ -7,8 +7,12 @@ https://github.com/WickyNilliams/headroom.js/
 http://gsgd.co.uk/sandbox/jquery/easing/
 
 ==============popups================
+1. http://dimsemenov.com/plugins/magnific-popup/
 magnific popup
-http://dimsemenov.com/plugins/magnific-popup/
+2.  https://popper.js.org/
+dead simple tooltip library
+3. http://izimodal.marcelodolce.com/
+modal library 
 
 
 ==============transitions and animations===============
@@ -19,7 +23,10 @@ http://www.pixijs.com/   (drag and drop included)
 
 
 ==========================images======================
-https://imagesloaded.desandro.com/   - detect loaded images 
+1. https://imagesloaded.desandro.com/   
+- detect loaded images 
+2.  https://github.com/verlok/lazyload
+lazy loading of images (goes through bg properties)
 
 
 ===========================sliders=================
@@ -36,9 +43,13 @@ https://github.com/flesler/jquery.scrollTo
 
 
 ===========================selects===================
+1. jquery nice select
+2. jquery custom select (akrillium)
+https://github.com/adamcoulombe/jquery.customSelect 
 
-
-
+============================input masks==============
+1. https://github.com/RobinHerbots/Inputmask
+2. https://jamesallardice.github.io/Placeholders.js/
 
 ==============================ie supports==============
 1. http://selectivizr.com/           
@@ -48,5 +59,8 @@ A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, 
 
 
 ============================other==================
-https://github.com/alexrabarts/jquery-platformselector          
+1. https://github.com/alexrabarts/jquery-platformselector          
 platformSelector is a simple jQuery plugin that adds classes to the body element representing the browser's environment
+2.  https://github.com/realjoshharrison/jquery-disablescroll
+Disables scroll events from mousewheels, touchmoves and keypresses.
+
