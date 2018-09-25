@@ -1,0 +1,52 @@
+===============Header show\hide================
+headroom.js
+https://wicky.nillia.ms/headroom.js/
+https://github.com/WickyNilliams/headroom.js/
+
+===============jquery easing=================
+http://gsgd.co.uk/sandbox/jquery/easing/
+
+==============popups================
+magnific popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+
+==============transitions and animations===============
+1. http://ricostacruz.com/jquery.transit/
+2.gsap & scrollmagic
+3.http://animejs.com/
+http://www.pixijs.com/   (drag and drop included)
+
+
+==========================images======================
+https://imagesloaded.desandro.com/   - detect loaded images 
+
+
+===========================sliders=================
+slider pro
+http://bqworks.com/slider-pro/
+swiper
+http://idangero.us/swiper/
+slick 
+http://kenwheeler.github.io/slick/
+
+
+=======================scrolling===================
+https://github.com/flesler/jquery.scrollTo
+
+
+===========================selects===================
+
+
+
+
+==============================ie supports==============
+1. http://selectivizr.com/           
+selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+2.  https://github.com/scottjehl/Respond
+A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
+
+
+============================other==================
+https://github.com/alexrabarts/jquery-platformselector          
+platformSelector is a simple jQuery plugin that adds classes to the body element representing the browser's environment
